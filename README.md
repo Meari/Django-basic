@@ -1,9 +1,4 @@
 # Django-basic
-# interview_python_plus
-> 在taizilongxu / interview_python的基础上，加入了自己的理解，修改一些错误。大佬的文档非常详细，时间有点长了，部分链接失效。最近也要面临就业了，所以打算重新整理一下，顺便加深一下记忆。
-
-**Table of Contents**
-
 
    * [Python语言特性](#python语言特性)
       * [1 Python的函数参数传递](#1-python的函数参数传递)
