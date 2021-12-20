@@ -12,4 +12,14 @@ from django.shortcuts import render
 
 
 def index(request):
-    return HttpResponse('ok')
+    # return HttpResponse('ok')
+    # render  渲染模板
+    # request   请求
+    # template_name   模板文件
+    # context = None
+
+    # 模拟数据查询
+    context = {
+        'name': '马上圣诞， 点击有惊喜！'
+    }
+    return render(request, 'book/index.html', context=context)
